@@ -1,0 +1,129 @@
+   
+   body{
+       color:#40514E;
+       margin: 0;
+       text-align: center;
+       font-family: 'Baloo Bhaijaan 2', cursive;
+       font-size: 20px;
+       
+   }
+   h1{
+    font-family: 'Sacramento', cursive;
+       font-size: 90px;
+       margin-top: 50px auto 0 auto;
+       color: #66BFBF;
+       line-height: 2;
+       
+   }
+   h2{
+       color: #66BFBF;
+       font-weight: normal;
+       padding: 10px;
+       font-family: 'Baloo Bhaijaan 2', cursive;
+      
+   }
+   .intro{
+       width:30%;
+       margin: auto;
+   }
+    .top-container{
+      background-color: #E5F6F6;
+      position: relative;
+      padding-top: 100px;
+      
+    
+    }
+    
+    .dev{
+        text-decoration: underline;
+    }
+   .cloud-top{
+       position: absolute;
+       right:250px;
+       top:30px;
+        
+    }
+    .cloud-bottom{
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+    .dp{
+        width: 10%;
+        height: 10%;
+        border-radius: 50%;
+    }
+    .skill-row{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+    }
+    .code-img{
+        width: 25%;
+        float:left;
+        margin-right: 30px;
+    }
+    .math-img{
+        width: 25%;
+        float: right;
+        margin-left:30px ;
+    }
+    
+    hr{
+        border-color:#EAF6F6;
+        width:4%;
+       border-style: dotted none none;
+       border-width : 6px;
+       margin: 100px auto;
+    
+    }
+.bottom-container{
+    background-color: #66BFBF;
+    color:white;
+    padding: 50px 0 20px;
+}  
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+
+}  
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #1199E);
+    background-image: -o-linear-gradient(top, #11CDD4, #1199E);
+    background-image: linear-gradient(to bottom, #11CDD4, #1199E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration:  none;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+  a{
+      color: #11999E;
+      font-family: 'Baloo Bhaijaan 2', cursive;
+      text-decoration: none;
+      padding: 20px 10px;
+      
+  }
+  a:hover{
+      color: #EAF6F6;
+  }
